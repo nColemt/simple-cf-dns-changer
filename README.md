@@ -1,1 +1,1 @@
-Automatically change DNS records type and detailes on schedule or specified time.
+Automatically change DNS records type and details on schedule or specified time.
